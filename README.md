@@ -2,9 +2,13 @@
 **Automated georegistration of 3D models**
 
 Master semester project at Digital Humanities Laboratory (EPFL)
+
 Author: Alicia Soria Gómez
+
 Supervisor: Albane Descombes
+
 Year: Autumn semester 2021
+
 
 **Introduction**
 This project explores different approaches to achieve automatic geolocalization of points in 3D models.
